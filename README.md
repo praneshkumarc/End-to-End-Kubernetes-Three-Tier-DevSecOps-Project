@@ -1,4 +1,4 @@
-![Three-Tier Banner](assets/Three-Tier.gif)
+![Three-Tier](https://github.com/user-attachments/assets/3c4b9447-ffe4-47f4-9ecd-1655abf96ffb)
 
 Welcome to the Three-Tier Web Application Deployment project! 🚀
 
